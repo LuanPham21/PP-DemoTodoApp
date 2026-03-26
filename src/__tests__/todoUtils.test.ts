@@ -8,7 +8,7 @@ import {
   countActive,
   sortByPriority,
 } from "../utils/todoUtils";
-import { Todo } from "../types";
+import type { Todo } from "../types";
 
 // ────────────────────────────────────────────────────────────
 // Test fixtures
